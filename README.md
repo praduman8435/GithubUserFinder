@@ -10,7 +10,7 @@ Once you have your PAT, you can use it to make requests to the GitHub API using 
 
 ## Usage
 
-To use this project, simply enter a GitHub username and click "View Profile". This will display information about the user's profile and repositories.
+To use this project, simply enter a GitHub username and click "Search". This will display information about the user's profile and repositories.
 
 ## Contributing
 
