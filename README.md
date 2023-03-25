@@ -10,12 +10,8 @@ Once you have your PAT, you can use it to make requests to the GitHub API using 
 
 ## Usage
 
-To use this project, simply enter a GitHub username and click "View Profile". The app will display information about the user's profile and repositories.
+To use this project, simply enter a GitHub username and click "View Profile". This will display information about the user's profile and repositories.
 
 ## Contributing
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request. We welcome contributions of all kinds!
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
